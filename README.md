@@ -33,6 +33,7 @@
 | [Opendatabot](https://docs.opendatabot.com/v3/)                 | Платформа для роботи з відкритими державними даними | JSON |   Public    |
 | [eHealth](https://uaehealthapi.docs.apiary.io)                  | Електронна система охорони здоров'я в Україні       | JSON |   Private   |
 | [Prozorro](https://prozorro-api-docs.readthedocs.io/uk/master/) | Система публічних закупівель                        | JSON |   Public    |
+| [Децентралізація](https://decentralization.gov.ua/en/api)       | Місцеве самоврядування та територіальна організація влади | JSON |   Public    |
 
 **[⬆ Назад до покажчика](#Покажчик)**
 
@@ -76,5 +77,6 @@
 | [Checkbox](https://wiki.checkbox.ua/uk/api-specification)             |   JSON   |   Private   |
 | [ПриватБанк](https://api.privatbank.ua/#p24/main)                     |   JSON   |   Public    |
 | [Monobank open API](https://api.monobank.ua/docs/)                    |   JSON   |   Public    |
+| [Minfin](https://minfin.com.ua/ua/developers/api/)                    |   JSON   |   Public    |
 
 **[⬆ Назад до покажчика](#Покажчик)**
