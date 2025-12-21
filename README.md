@@ -30,7 +30,7 @@
 
 | API                                                             | Опис                                                | Тип  | Доступність |
 | :-------------------------------------------------------------: | :-------------------------------------------------: | :--: | :---------: |
-| [Opendatabot](https://docs.opendatabot.com/v3/)                 | Платформа для роботи з відкритими державними даними | JSON |   Public    |
+| [Opendatabot](https://docs.opendatabot.com)                     | Платформа для роботи з відкритими державними даними | JSON |   Public    |
 | [eHealth](https://uaehealthapi.docs.apiary.io)                  | Електронна система охорони здоров'я в Україні       | JSON |   Private   |
 | [Prozorro](https://prozorro-api-docs.readthedocs.io/uk/master/) | Система публічних закупівель                        | JSON |   Public    |
 | [Децентралізація](https://decentralization.gov.ua/en/api)       | Місцеве самоврядування та територіальна організація влади | JSON |   Public    |
