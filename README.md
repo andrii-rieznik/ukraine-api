@@ -34,6 +34,9 @@
 | [eHealth](https://uaehealthapi.docs.apiary.io)                  | Електронна система охорони здоров'я в Україні       | JSON |   Private   |
 | [Prozorro](https://prozorro-api-docs.readthedocs.io/uk/master/) | Система публічних закупівель                        | JSON |   Public    |
 | [Децентралізація](https://decentralization.gov.ua/en/api)       | Місцеве самоврядування та територіальна організація влади | JSON |   Public    |
+| [НАЗК](https://public.nazk.gov.ua/public_api) | Реєстр декларацій осіб, уповноважених на виконання функцій держави | JSON | Public |
+| [ДПС: відкриті реєстри](https://cabinet.tax.gov.ua/help/api-registers.html) | Відкриті реєстри Електронного кабінету платника податків | JSON | Public |
+| [ДПС: Електронний кабінет](https://cabinet.tax.gov.ua/help/api.html) | Подання звітності та доступ до приватної частини ЕК (потрібен КЕП) | JSON | Private |
 
 **[⬆ Назад до покажчика](#Покажчик)**
 
