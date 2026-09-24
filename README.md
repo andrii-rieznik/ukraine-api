@@ -1,5 +1,7 @@
 # Ukraine API
 
+[![Check Links](https://github.com/andrii-rieznik/ukraine-api/actions/workflows/links.yml/badge.svg)](https://github.com/andrii-rieznik/ukraine-api/actions/workflows/links.yml)
+
 Вам відомий API української державної установи, приватної компанії чи публічної організації якого немає в списку? Тоді відкрийте [pull request](https://github.com/andriyreznik/ukraine-api/pulls) або створіть [issue](https://github.com/andriyreznik/ukraine-api/issues).
 
 ## Загальна інформація
