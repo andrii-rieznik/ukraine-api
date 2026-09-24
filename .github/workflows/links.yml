@@ -1,6 +1,8 @@
 name: Links
 
-on: push
+on:
+  schedule:
+    - cron: "00 18 * * 1"
 
 jobs:
   linkChecker:
@@ -11,3 +13,13 @@ jobs:
       - name: Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v2
+        with:
+          fail: false
+
+      - name: Create Issue From File
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
