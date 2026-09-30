@@ -2,7 +2,7 @@
 
 [![Check Links](https://github.com/andrii-rieznik/ukraine-api/actions/workflows/links.yml/badge.svg)](https://github.com/andrii-rieznik/ukraine-api/actions/workflows/links.yml)
 
-Вам відомий API української державної установи, приватної компанії чи публічної організації якого немає в списку? Тоді відкрийте [pull request](https://github.com/andriyreznik/ukraine-api/pulls) або створіть [issue](https://github.com/andriyreznik/ukraine-api/issues).
+Вам відомий API української державної установи, приватної компанії чи публічної організації якого немає в списку? Тоді відкрийте [pull request](https://github.com/andrii-rieznik/ukraine-api/pulls) або створіть [issue](https://github.com/andrii-rieznik/ukraine-api/issues).
 
 ## Загальна інформація
 
@@ -14,7 +14,7 @@
 
 #### Private
 
-Ви повині мати "відносини" з компанією, яка розкриває API, платно чи безкоштовно.
+Ви повинні мати "відносини" з компанією, яка розкриває API, платно чи безкоштовно.
 
 ## Покажчик
 
@@ -45,20 +45,21 @@
 
 ### Платіжні системи
 
-| API                                                    | Тип  | Доступність |
-|--------------------------------------------------------|:----:|:-----------:|
-| [LiqPay](https://www.liqpay.ua/documentation/api/home) | JSON |   Private   |
-| [Portmone](https://docs.portmone.com.ua/uk/)           | JSON |   Private   |
-| [NovaPay](https://novapay.ua/documents/api-ia/)        | JSON |   Private   |
+| API                                                                  | Тип  | Доступність |
+|----------------------------------------------------------------------|:----:|:-----------:|
+| [LiqPay](https://www.liqpay.ua/uk/doc/api)                           | JSON |   Private   |
+| [Portmone](https://docs.portmone.com.ua/uk/)                         | JSON |   Private   |
+| [NovaPay: Інтернет-еквайринг](https://novapay.readme.io/reference)   | JSON |   Private   |
+| [NovaPay: "Комфортний"](https://comfort.readme.io/reference/comfort) | JSON |   Private   |
 
 **[⬆ Назад до покажчика](#Покажчик)**
 
 ### Пошта
 
-| API                                                         | Тип  | Доступність |
-|-------------------------------------------------------------|:----:|:-----------:|
-| [Укрпошта](https://dev.ukrposhta.ua/documentation)          | JSON |   Private   |
-| [Нова пошта](https://devcenter.novaposhta.ua/documentation) | JSON |   Private   |
+| API                                                          |   Тип    | Доступність |
+|--------------------------------------------------------------|:--------:|:-----------:|
+| [Укрпошта](https://dev.ukrposhta.ua/documentation)           |   JSON   |   Private   |
+| [Нова пошта](https://developers.novaposhta.ua/documentation) | JSON/XML |   Private   |
 
 **[⬆ Назад до покажчика](#Покажчик)**
 
@@ -76,12 +77,13 @@
 
 ### Фінансові установи та банки
 
-| API                                                                   |   Тип    | Доступність |
-|-----------------------------------------------------------------------|:--------:|:-----------:|
-| [Національний банк України](https://bank.gov.ua/ua/open-data/api-dev) | JSON/XML |   Public    |
-| [Checkbox](https://wiki.checkbox.ua/uk/api-specification)             |   JSON   |   Private   |
-| [ПриватБанк](https://api.privatbank.ua/#p24/main)                     |   JSON   |   Public    |
-| [Monobank open API](https://api.monobank.ua/docs/)                    |   JSON   |   Public    |
-| [Minfin](https://minfin.com.ua/ua/developers/api/)                    |   JSON   |   Public    |
+| API                                                                      |   Тип    | Доступність |
+|--------------------------------------------------------------------------|:--------:|:-----------:|
+| [Національний банк України](https://bank.gov.ua/ua/open-data/api-dev)    | JSON/XML |   Public    |
+| [Checkbox](https://wiki.checkbox.ua/uk/api)                              |   JSON   |   Private   |
+| [Checkbox Kasa](https://wiki.checkbox.ua/uk/api/local_api_specification) |   JSON   |   Private   |
+| [ПриватБанк](https://api.privatbank.ua/#p24/main)                        |   JSON   |   Public    |
+| [Monobank open API](https://api.monobank.ua/docs/index.html)             |   JSON   |   Public    |
+| [Minfin](https://minfin.com.ua/ua/developers/api/)                       |   JSON   |   Public    |
 
 **[⬆ Назад до покажчика](#Покажчик)**
