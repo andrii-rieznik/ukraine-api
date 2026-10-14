@@ -2,7 +2,7 @@ name: Links
 
 on:
   schedule:
-    - cron: "00 18 * * 1"
+    - cron: "0 0 1 * *" # run once a month
 
 jobs:
   linkChecker:
